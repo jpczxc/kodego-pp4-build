@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jpczxc.github.io/kodego-pp4-build/static/css/main.02779827.css",
-    "main.js": "https://jpczxc.github.io/kodego-pp4-build/static/js/main.896d665d.js",
+    "main.js": "https://jpczxc.github.io/kodego-pp4-build/static/js/main.cc057cc6.js",
     "static/js/453.fd98c034.chunk.js": "https://jpczxc.github.io/kodego-pp4-build/static/js/453.fd98c034.chunk.js",
     "static/media/testIMAGE.png": "https://jpczxc.github.io/kodego-pp4-build/static/media/testIMAGE.6c085177585b7e892939.png",
     "static/media/heroImage2.png": "https://jpczxc.github.io/kodego-pp4-build/static/media/heroImage2.99a99728e1202514f26b.png",
@@ -13,11 +13,11 @@
     "static/media/cart.png": "https://jpczxc.github.io/kodego-pp4-build/static/media/cart.6372dccbd9f8705990fa.png",
     "index.html": "https://jpczxc.github.io/kodego-pp4-build/index.html",
     "main.02779827.css.map": "https://jpczxc.github.io/kodego-pp4-build/static/css/main.02779827.css.map",
-    "main.896d665d.js.map": "https://jpczxc.github.io/kodego-pp4-build/static/js/main.896d665d.js.map",
+    "main.cc057cc6.js.map": "https://jpczxc.github.io/kodego-pp4-build/static/js/main.cc057cc6.js.map",
     "453.fd98c034.chunk.js.map": "https://jpczxc.github.io/kodego-pp4-build/static/js/453.fd98c034.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02779827.css",
-    "static/js/main.896d665d.js"
+    "static/js/main.cc057cc6.js"
   ]
 }
