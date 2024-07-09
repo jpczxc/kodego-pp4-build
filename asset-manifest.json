@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.02779827.css",
-    "main.js": "/static/js/main.ffae932c.js",
-    "static/js/453.fd98c034.chunk.js": "/static/js/453.fd98c034.chunk.js",
-    "static/media/testIMAGE.png": "/static/media/testIMAGE.6c085177585b7e892939.png",
-    "static/media/heroImage2.png": "/static/media/heroImage2.99a99728e1202514f26b.png",
-    "static/media/contactIMAGE.png": "/static/media/contactIMAGE.13afb88e23643851ce77.png",
-    "static/media/HEROIMAGE.png": "/static/media/HEROIMAGE.99216dbeea0797afe446.png",
-    "static/media/3dCar.png": "/static/media/3dCar.ab19fef86aafd131c97d.png",
-    "static/media/aboutIMAGE.png": "/static/media/aboutIMAGE.7c21aa7a078b998e320e.png",
-    "static/media/ShopSphereLogo.png": "/static/media/ShopSphereLogo.6ac665fe4499a5c2e042.png",
-    "static/media/cart.png": "/static/media/cart.6372dccbd9f8705990fa.png",
-    "index.html": "/index.html",
-    "main.02779827.css.map": "/static/css/main.02779827.css.map",
-    "main.ffae932c.js.map": "/static/js/main.ffae932c.js.map",
-    "453.fd98c034.chunk.js.map": "/static/js/453.fd98c034.chunk.js.map"
+    "main.css": "/kodego-pp4-build/static/css/main.02779827.css",
+    "main.js": "/kodego-pp4-build/static/js/main.10a0064c.js",
+    "static/js/453.fd98c034.chunk.js": "/kodego-pp4-build/static/js/453.fd98c034.chunk.js",
+    "static/media/testIMAGE.png": "/kodego-pp4-build/static/media/testIMAGE.6c085177585b7e892939.png",
+    "static/media/heroImage2.png": "/kodego-pp4-build/static/media/heroImage2.99a99728e1202514f26b.png",
+    "static/media/contactIMAGE.png": "/kodego-pp4-build/static/media/contactIMAGE.13afb88e23643851ce77.png",
+    "static/media/HEROIMAGE.png": "/kodego-pp4-build/static/media/HEROIMAGE.99216dbeea0797afe446.png",
+    "static/media/3dCar.png": "/kodego-pp4-build/static/media/3dCar.ab19fef86aafd131c97d.png",
+    "static/media/aboutIMAGE.png": "/kodego-pp4-build/static/media/aboutIMAGE.7c21aa7a078b998e320e.png",
+    "static/media/ShopSphereLogo.png": "/kodego-pp4-build/static/media/ShopSphereLogo.6ac665fe4499a5c2e042.png",
+    "static/media/cart.png": "/kodego-pp4-build/static/media/cart.6372dccbd9f8705990fa.png",
+    "index.html": "/kodego-pp4-build/index.html",
+    "main.02779827.css.map": "/kodego-pp4-build/static/css/main.02779827.css.map",
+    "main.10a0064c.js.map": "/kodego-pp4-build/static/js/main.10a0064c.js.map",
+    "453.fd98c034.chunk.js.map": "/kodego-pp4-build/static/js/453.fd98c034.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02779827.css",
-    "static/js/main.ffae932c.js"
+    "static/js/main.10a0064c.js"
   ]
 }
